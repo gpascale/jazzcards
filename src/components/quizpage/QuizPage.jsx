@@ -1,7 +1,7 @@
 import React, { Component, PropTypes } from 'react';
 import RaisedButton from 'material-ui/RaisedButton';
 import PageLayout from '../pagelayout/PageLayout';
-import Card from '../card/card';
+import Card from '../card/Card';
 
 class QuizPage extends Component {
   constructor(props) {
